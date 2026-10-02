@@ -1,0 +1,26 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+.DS_Store
+dist-ssr
+*.local
+
+# Python cache / temporary
+__pycache__/
+*.py[cod]
+download_media.py
+process_assets.py
+Perfil.png
+Portada.png
+
+# Environment
+.env
+.env.*
+!.env.example
